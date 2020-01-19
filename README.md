@@ -22,14 +22,16 @@
 #### Findings:
 * From the total number of Kickstarter campaigns (4114), 74% (3038) of them are from U.S. and 15% are from Great Britain. 
 *	There were 525 (58%) success theater campaigns in the U.S. against 349 (38%) that failed. In Great Britain there was 258 (72% ) successful and 89 (25%) failed. 
-*	![image_name](path/to/image_name.png) 
+*	![image_name](path/to/image_name.png)
+![alt text](US Campains statistical info)
 *	While there are 604 campaigns in general in Great Britain, play campaigns are the most successful with 39% (238). The same for U.S with 412 successful play campaigns (14%).
 *	 May showed a high value for success campaigns while in December the number is almost 4 times less
 *	![image_name](path/to/image_name.png)
+![alt text](US Campains statistical info)
 *	Failed play campaigns in the U.S. have much higher goals than successful campaigns and at the same time their pledged are very low.
 *	Since the pledged median for fail campaign is low, it shows that people are not pledging high for those campaigns
 *	The mean campaign pledged is half of the suggested goal for US and Great Britain.
-![alt text](https://github.com/DaniGio/kickstarter-analysis/blob/master/Box%20and%20Whiskers_GB.png)
+![alt text](US Campains statistical info)
 #### Recommendation:
 * It is suggested that even for US or GB the goal should be decreased and the play should be produced for less than $10,000. The suggestion for the campaign to be launched is in June. 
 
